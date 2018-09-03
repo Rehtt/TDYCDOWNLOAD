@@ -25,4 +25,6 @@
     <string name="action_settings">搜索电影</string>
     <string name="title_activity_web_view">浏览器</string>
     <string name="title_activity_so">搜索电影</string>
+    <string name="title_activity_so_jie_xi">SoJieXiActivity</string>
+    <string name="title_activity_page_jie_xi">PageJieXiActivity</string>
 </resources>

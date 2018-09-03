@@ -2,6 +2,9 @@ package cn.rehtt;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.Map;
+
 import static org.junit.Assert.*;
 
 /**
@@ -12,9 +15,7 @@ import static org.junit.Assert.*;
 public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
-        int i = 9898;
-        String ii= String.valueOf((float) i/100);
-        System.out.print(ii);
+
 
     }
 }

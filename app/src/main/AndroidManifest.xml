@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_ico_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".FirstActivity"
+        <activity
+            android:name=".FirstActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,9 +30,15 @@
         <activity
             android:name=".WebViewActivity"
             android:label="@string/title_activity_web_view"
-            android:theme="@style/AppTheme.NoActionBar"/>
-        <activity android:name=".SoActivity"
-            android:label="@string/title_activity_so"/>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SoActivity"
+            android:label="@string/title_activity_so" />
+        <activity android:name=".SoJieXiActivity" />
+        <activity
+            android:name=".PageJieXiActivity"
+            android:label="@string/title_activity_page_jie_xi"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
