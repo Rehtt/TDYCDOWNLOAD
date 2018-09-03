@@ -9,7 +9,7 @@ android {
         versionCode 2
         versionName '1.10'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        versionNameSuffix '青葱'
+        versionNameSuffix '-青葱'
     }
     buildTypes {
         release {
